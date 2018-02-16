@@ -1,0 +1,45 @@
+.card-header
+{
+  color: #ffffff;
+  font-weight: bold;
+}
+header.front {
+  padding-top: 20px;
+}
+
+.card-header.front-1
+{
+  background-color: #ff1b6e!important;
+}
+
+.card-header.front-2
+{
+  background-color: #ff6b10!important;
+}
+.card-header.front-3
+{
+  background-color: #9e49cb!important;
+}
+
+.banner {
+      border: #e9ecef solid 8px;
+}
+
+.bg-footer {
+    background-image: url('../img/fondo-gris.png');
+}
+
+.enlace li > a {
+    text-decoration: none;
+    color: #006690;
+}
+
+.enlace li > a:hover {
+    text-decoration: none;
+    color: #979c97;
+    border-bottom: 1px solid #979c97;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #979c97!important;
+}
